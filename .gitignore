@@ -1,0 +1,15 @@
+###> PHPStorm ###
+/.idea/
+###< PHPStorm ###
+
+###> Composer ###
+/composer.lock
+/vendor/
+###< Composer ###
+
+###> phpunit/phpunit ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
